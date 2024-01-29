@@ -1,2 +1,2 @@
 Current web.github.io list:
-placeholder.web.github.io
+test.web-domain.github.io
